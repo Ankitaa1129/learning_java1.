@@ -1,7 +1,7 @@
 import java.util.Arrays;
 public class Array {
     public static void main(String[] args){
-        int [] marks= new int [5];// ye thik hai pr mai
+        int [] marks= new int [5];// ye Thik hai pr mai
 
         // aise v array bna skti hu :-
      //   int [] marks;
